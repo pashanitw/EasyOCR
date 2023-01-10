@@ -12,11 +12,11 @@ detection_models = {
     'craft' : {
         'filename': 'CRAFT_clr_amp_300_2.0.pth',
         'url': 'https://github.com/pashanitw/EasyOCR/releases/download/easyocr1.0/CRAFT_clr_amp_300_2.0.pth.zip',
-        'md5sum': '0235eb8b6af2eb8e62bc0af5dd4387b6'
+        'md5sum': '7c7cb06c89410317273fbe2ac15d6f0a'
     },
     'dbnet18' : {
         'filename': 'pretrained_ic15_res18.pt',
-        'url': 'https://github.7c7cb06c89410317273fbe2ac15d6f0acom/JaidedAI/EasyOCR/releases/download/v1.6.0/pretrained_ic15_res18.zip',
+        'url': 'https://github.com/JaidedAI/EasyOCR/releases/download/v1.6.0/pretrained_ic15_res18.zip',
         'md5sum': 'aee04f8ffe5fc5bd5abea73223800425'
     },
     'dbnet50' : {
