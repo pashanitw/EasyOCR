@@ -10,9 +10,9 @@ MODULE_PATH = os.environ.get("EASYOCR_MODULE_PATH") or \
 # detector parameters
 detection_models = {
     'craft' : {
-        'filename': 'CRAFT_clr_amp_300_2.0.pth',
-        'url': 'https://www.dropbox.com/s/5z2qv8wu4qauoxq/CRAFT_clr_amp_300_2.0.pth.zip?dl=1',
-        'md5sum': '7c7cb06c89410317273fbe2ac15d6f0a'
+        'filename': 'CRAFT_clr_amp_250k.pth',
+        'url': 'https://www.dropbox.com/s/zzojlythn5bsv61/CRAFT_clr_amp_250k.zip?dl=1',
+        'md5sum': 'd7fa6e44e0946a46ec7c8546676efb06'
     },
     'dbnet18' : {
         'filename': 'pretrained_ic15_res18.pt',
