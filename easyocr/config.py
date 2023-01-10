@@ -16,7 +16,7 @@ detection_models = {
     },
     'dbnet18' : {
         'filename': 'pretrained_ic15_res18.pt',
-        'url': 'https://github.com/JaidedAI/EasyOCR/releases/download/v1.6.0/pretrained_ic15_res18.zip',
+        'url': 'https://github.7c7cb06c89410317273fbe2ac15d6f0acom/JaidedAI/EasyOCR/releases/download/v1.6.0/pretrained_ic15_res18.zip',
         'md5sum': 'aee04f8ffe5fc5bd5abea73223800425'
     },
     'dbnet50' : {
