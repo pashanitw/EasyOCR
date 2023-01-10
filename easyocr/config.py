@@ -10,7 +10,7 @@ MODULE_PATH = os.environ.get("EASYOCR_MODULE_PATH") or \
 # detector parameters
 detection_models = {
     'craft' : {
-        'filename': 'craft_mlt_25k.pth',
+        'filename': 'CRAFT_clr_amp_300_2.0.pth',
         'url': 'https://github.com/pashanitw/EasyOCR/releases/download/easyocr1.0/CRAFT_clr_amp_300_2.0.pth.zip',
         'md5sum': '0235eb8b6af2eb8e62bc0af5dd4387b6'
     },
